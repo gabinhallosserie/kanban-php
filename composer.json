@@ -1,0 +1,8 @@
+{
+    "name": "user/kanban-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
